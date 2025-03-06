@@ -1,5 +1,6 @@
 langchain
-langchain-community
+# langchain-community
+langchain-google-genai
 ollama
 python-dotenv
 duckduckgo-search
