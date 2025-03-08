@@ -6,3 +6,7 @@ python-dotenv
 duckduckgo-search
 wikipedia
 arxiv
+
+## multi-agent dependencies
+crewai==0.22.5
+crewai[tools]
