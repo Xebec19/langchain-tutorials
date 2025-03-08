@@ -5,3 +5,4 @@ ollama
 python-dotenv
 duckduckgo-search
 wikipedia
+arxiv
